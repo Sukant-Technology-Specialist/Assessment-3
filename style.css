@@ -1,0 +1,22 @@
+@media only screen and (min-width:700px) {
+    .row12 {
+        margin-left: 300px;
+        font-family: 'Comic Sans', Bold;
+    }
+    .row11 {
+        font-family: 'Comic Sans', Bold;
+        margin-left: 400px;
+    }
+    #row1 {
+        font-family: 'Comic Sans', Bold;
+        margin-left: 400px;
+    }
+}
+
+body {
+    background-color: lightblue;
+    background-image: url('https://mdbootstrap.com/img/Photos/Others/images/91.jpg'); 
+	background-repeat: no-repeat; 
+	background-size: cover; 
+	background-position: center center');
+}
